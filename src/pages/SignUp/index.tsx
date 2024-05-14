@@ -1,0 +1,1 @@
+export { SignUpPageView as default } from './SignUpPage.view';
